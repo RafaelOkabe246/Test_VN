@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<BasketNovel>
+	<EditorSettings ScriptList="title.txt" FitProportion="0.75" EditorAnimationTweens="False" DistributeDestDir="C:\Users\daego\Desktop" EditorMusicPlay="false" EditorBoundingBoxDisplay="false" RealtimePreview="true" ScriptWordwrap="false" DisplayAxes="false" Font="/Plugins/lvui_19/res/NotoSansCJKjp-Regular.otf" FontSize="22" ViewMask="false" ViewWaitIcon="false" MaximisedPreviewSize.x="904" MaximisedPreviewSize.y="410" StartMaximised="False" ViewColliders="true" ReadFromPatches="true" ViewTileGrid="true" ScriptEditorBackground="editor_background.png" ScriptEditorBackgroundOpacity="0.040000000000000001" EditorForceVolume="true" EditorForceVolumeLevel="0" />
+</BasketNovel>

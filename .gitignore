@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Ignorar salvamentos locais e configurações de teste
+/saved/
+/config/
+*.log
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Opcional: Se suas pastas de áudio/vídeo forem muito pesadas (maiores que 100MB)
+# /resources/video/
+# /resources/sound/
